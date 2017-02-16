@@ -1,0 +1,33 @@
+@import "home";
+.create-btn{
+  background-color: blue;
+}
+
+.container {
+  background-color: #EEEEEE;
+  height:1000px;
+  position: relative;
+}
+
+.navbar {
+  background-color: grey;
+}
+.inlist{
+  list-style: none;
+  position:absolute;
+   right: 40px;
+
+}
+.btn{
+  margin-top: 10px;
+  background-color: #53443F;
+}
+
+
+.options{
+  position:relative;
+}
+.cards{
+  background-image: url(images.jpeg);
+}
+
